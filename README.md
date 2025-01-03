@@ -17,6 +17,12 @@ You have to build an application using **react native expo** so that it could be
 
 The backend is build using nodejs & mongodb so you should have node & mongodb installed in your device.
 
+    git clone https://github.com/Bingo-Projects/React-native-assignment.git
+    cd React-native-assignment
+    npm i
+    node index.js
+
+
 ## Registration Steps
 
 ***Step 1***
