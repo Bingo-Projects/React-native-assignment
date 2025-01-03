@@ -1,0 +1,23 @@
+{
+    "name": "sportshub_consumber_backend",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx tsc && node dist\\index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.10.2",
+        "typescript": "^5.7.2"
+    },
+    "dependencies": {
+        "crypto": "^1.0.1",
+        "express": "^4.21.2",
+        "helmet": "^8.0.0",
+        "mongoose": "^8.9.2",
+        "uuid": "^11.0.3"
+    }
+}
