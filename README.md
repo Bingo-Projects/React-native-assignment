@@ -12,6 +12,7 @@ You have to build an application using **react native expo** so that it could be
 * The code should be well structured & readable.
 * **Design** is the most important thing so try using custom google fonts, animations & effects so make the user experience more enjoyable.
 * You are free to choose any library you like (avoid using unknown or very less downloaded libraries).
+* Use of **Typescript** is encouraged
 
 ## Backend
 
